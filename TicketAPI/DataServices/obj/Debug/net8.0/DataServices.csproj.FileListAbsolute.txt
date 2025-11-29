@@ -1,0 +1,76 @@
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.deps.json
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataCore.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataModels.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataCore.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataModels.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.AssemblyReference.cache
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfoInputs.cache
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfo.cs
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.CoreCompileInputs.cache
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServ.27BC70E7.Up2Date
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\refint\DataServices.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataServices\obj\Debug\net8.0\ref\DataServices.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.deps.json
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataCore.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataModels.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataCore.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataModels.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.AssemblyReference.cache
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfoInputs.cache
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfo.cs
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.CoreCompileInputs.cache
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServ.27BC70E7.Up2Date
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\refint\DataServices.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataServices\obj\Debug\net8.0\ref\DataServices.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.deps.json
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataServices.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataCore.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataModels.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataCore.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataModels.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.AssemblyReference.cache
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfoInputs.cache
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfo.cs
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.CoreCompileInputs.cache
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServ.27BC70E7.Up2Date
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\refint\DataServices.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\DataServices.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataServices\obj\Debug\net8.0\ref\DataServices.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataCore.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataEntities.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataModels.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataCore.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataModels.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.AssemblyReference.cache
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfoInputs.cache
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.AssemblyInfo.cs
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.csproj.CoreCompileInputs.cache
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServ.27BC70E7.Up2Date
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\refint\DataServices.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\DataServices.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataServices.deps.json
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataServices.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\bin\Debug\net8.0\DataServices.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataServices\obj\Debug\net8.0\ref\DataServices.dll

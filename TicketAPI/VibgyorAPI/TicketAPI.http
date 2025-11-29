@@ -1,0 +1,6 @@
+@VibgyorAPI_HostAddress = http://localhost:5121
+
+GET {{VibgyorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{648FD4E1-24CB-4816-BFCC-37770A281998}|DataModels\\DataModels.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\datamodels\\ticketupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648FD4E1-24CB-4816-BFCC-37770A281998}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\ticketupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\vibgyorapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|solutionrelative:vibgyorapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAAC2-39C5-4121-A234-9FCEE63BA5D4}|DataCore\\DataCore.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\datacore\\ticketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAAC2-39C5-4121-A234-9FCEE63BA5D4}|DataCore\\DataCore.csproj|solutionrelative:datacore\\ticketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845C2ABA-87EB-4072-B0DF-54C1180E844E}|DataServices\\DataServices.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\dataservices\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845C2ABA-87EB-4072-B0DF-54C1180E844E}|DataServices\\DataServices.csproj|solutionrelative:dataservices\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0657A8E7-B27D-44A3-92B5-95725F161FA3}|DataEntities\\DataEntities.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\dataentities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0657A8E7-B27D-44A3-92B5-95725F161FA3}|DataEntities\\DataEntities.csproj|solutionrelative:dataentities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\vibgyorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|solutionrelative:vibgyorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\vibgyorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|solutionrelative:vibgyorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\vibgyorapi\\ticketapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|solutionrelative:vibgyorapi\\ticketapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\vibgyorapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AE5F12-9AA6-4241-92EC-2E51415FAF95}|VibgyorAPI\\TicketAPI.csproj|solutionrelative:vibgyorapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648FD4E1-24CB-4816-BFCC-37770A281998}|DataModels\\DataModels.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\datamodels\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648FD4E1-24CB-4816-BFCC-37770A281998}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAAC2-39C5-4121-A234-9FCEE63BA5D4}|DataCore\\DataCore.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\datacore\\base\\irepositorycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAAC2-39C5-4121-A234-9FCEE63BA5D4}|DataCore\\DataCore.csproj|solutionrelative:datacore\\base\\irepositorycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAAC2-39C5-4121-A234-9FCEE63BA5D4}|DataCore\\DataCore.csproj|c:\\users\\sudar\\onedrive\\documents\\titcket management api\\ticketapi\\datacore\\ticketunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAAC2-39C5-4121-A234-9FCEE63BA5D4}|DataCore\\DataCore.csproj|solutionrelative:datacore\\ticketunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VibgyorAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\appsettings.json",
+              "RelativeToolTip": "VibgyorAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T08:31:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataEntities\\Ticket.cs",
+              "RelativeDocumentMoniker": "DataEntities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataEntities\\Ticket.cs",
+              "RelativeToolTip": "DataEntities\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:13:06.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataServices\\TicketService.cs",
+              "RelativeDocumentMoniker": "DataServices\\TicketService.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataServices\\TicketService.cs",
+              "RelativeToolTip": "DataServices\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:25:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketContext.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataCore\\TicketContext.cs",
+              "RelativeDocumentMoniker": "DataCore\\TicketContext.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataCore\\TicketContext.cs",
+              "RelativeToolTip": "DataCore\\TicketContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:43:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VibgyorAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\appsettings.Development.json",
+              "RelativeToolTip": "VibgyorAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T20:23:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataModels\\TicketUpdateModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\TicketUpdateModel.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataModels\\TicketUpdateModel.cs",
+              "RelativeToolTip": "DataModels\\TicketUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:12:47.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VibgyorAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\Program.cs",
+              "RelativeToolTip": "VibgyorAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:29:32.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketAPI.http",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\TicketAPI.http",
+              "RelativeDocumentMoniker": "VibgyorAPI\\TicketAPI.http",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\TicketAPI.http",
+              "RelativeToolTip": "VibgyorAPI\\TicketAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-11T08:31:35.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "VibgyorAPI\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\VibgyorAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "VibgyorAPI\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:34:18.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataModels\\TicketModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\TicketModel.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataModels\\TicketModel.cs",
+              "RelativeToolTip": "DataModels\\TicketModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:12:40.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositoryCore.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataCore\\Base\\IRepositoryCore.cs",
+              "RelativeDocumentMoniker": "DataCore\\Base\\IRepositoryCore.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataCore\\Base\\IRepositoryCore.cs",
+              "RelativeToolTip": "DataCore\\Base\\IRepositoryCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:18:31.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataCore\\TicketUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataCore\\TicketUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sudar\\OneDrive\\Documents\\titcket management api\\TicketAPI\\DataCore\\TicketUnitOfWork.cs",
+              "RelativeToolTip": "DataCore\\TicketUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:43:46.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "VibgyorAPI.Controllers.TicketsController",
+    "Method": "AddTicket",
+    "RelativePath": "api/Tickets/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DataModels.TicketUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VibgyorAPI.Controllers.TicketsController",
+    "Method": "GetAllTickets",
+    "RelativePath": "api/Tickets/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VibgyorAPI.Controllers.TicketsController",
+    "Method": "GetTicket",
+    "RelativePath": "api/Tickets/by/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VibgyorAPI.Controllers.TicketsController",
+    "Method": "DeleteTicket",
+    "RelativePath": "api/Tickets/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VibgyorAPI.Controllers.TicketsController",
+    "Method": "UpdateTicket",
+    "RelativePath": "api/Tickets/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "DataModels.TicketUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

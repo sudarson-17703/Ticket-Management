@@ -1,0 +1,48 @@
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.deps.json
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.AssemblyReference.cache
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfoInputs.cache
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfo.cs
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\refint\DataEntities.dll
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\source\repos\VibgyorAPI\DataEntities\obj\Debug\net8.0\ref\DataEntities.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.deps.json
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.AssemblyReference.cache
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfoInputs.cache
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfo.cs
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\refint\DataEntities.dll
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\Desktop\Ticket\VibgyorAPI\DataEntities\obj\Debug\net8.0\ref\DataEntities.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.deps.json
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.AssemblyReference.cache
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfoInputs.cache
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfo.cs
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\refint\DataEntities.dll
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\DataEntities.pdb
+C:\Users\Adm in\Downloads\Ticket Mgmt(UI + API)\VibgyorAPI\DataEntities\obj\Debug\net8.0\ref\DataEntities.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\refint\DataEntities.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\bin\Debug\net8.0\DataEntities.deps.json
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\bin\Debug\net8.0\DataEntities.dll
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\bin\Debug\net8.0\DataEntities.pdb
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.AssemblyReference.cache
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfoInputs.cache
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.AssemblyInfo.cs
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\sudar\OneDrive\Documents\titcket management api\TicketAPI\DataEntities\obj\Debug\net8.0\ref\DataEntities.dll
