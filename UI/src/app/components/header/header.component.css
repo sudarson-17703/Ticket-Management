@@ -1,0 +1,6 @@
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+  .btn-outline-danger {
+    border-radius: 0.5rem;
+  }
+}

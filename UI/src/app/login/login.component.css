@@ -1,0 +1,40 @@
+.login-page {
+  .login-info {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    text-align: center;
+    flex: 1;
+    img {
+      opacity: 0.8;
+    }
+  }
+
+  .login-form {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+
+    .card {
+      transition: all 0.3s;
+      &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      }
+    }
+
+    .btn-primary {
+      background: linear-gradient(90deg, #667eea, #764ba2);
+      border: none;
+      &:hover {
+        background: linear-gradient(90deg, #5563d6, #623ca0);
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .login-info {
+    display: none !important;
+  }
+}

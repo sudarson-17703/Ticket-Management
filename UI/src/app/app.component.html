@@ -1,0 +1,32 @@
+<div class="d-flex" style="min-height: 100vh;">
+
+  <!-- Sidebar only visible if logged in -->
+  <nav *ngIf="authService.getAuthStatus()" class="bg-secondary text-white p-3 flex-shrink-0" style="width: 250px;">
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white" routerLink="/tickets">Tickets</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white">Other features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white">Other features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white">Other features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white">Other features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white">Other features</a>
+      </li>
+    </ul>
+  </nav>
+
+  <div class="flex-grow-1 p-4">
+    <app-header *ngIf="authService.getAuthStatus()"></app-header>
+    <router-outlet></router-outlet>
+  </div>
+
+</div>

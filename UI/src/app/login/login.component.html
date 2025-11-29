@@ -1,0 +1,21 @@
+<div class="login-page d-flex vh-100">
+  <!-- Right login form section -->
+  <div class="login-form d-flex flex-column justify-content-center align-items-center p-5 w-100">
+    <div class="card shadow p-4" style="width: 100%; max-width: 380px; border-radius: 1rem;">
+      <h3 class="text-center mb-4">Sign In</h3>
+      <form (ngSubmit)="onLogin()">
+        <div class="mb-3">
+          <input [(ngModel)]="email" name="email" type="email" class="form-control form-control-lg" placeholder="Email" required>
+        </div>
+        <div class="mb-3">
+          <input [(ngModel)]="password" name="password" type="password" class="form-control form-control-lg" placeholder="Password" required>
+        </div>
+        <button type="submit" class="btn btn-primary w-100 btn-lg">Login</button>
+        <p class="text-center mt-3">
+          <a href="#" class="text-decoration-none">Forgot password?</a>
+        </p>
+      </form>
+      <hr>
+    </div>
+  </div>
+</div>
